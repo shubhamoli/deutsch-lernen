@@ -78,6 +78,7 @@ Here are a few examples:
     - Oli trägt ein rotes (before the noun) T-Shirt. This change called adjective declension.
     - Olis == Oli’s in English
 - Always learn Adjectives with their comparative (Komparativ) and superlative (Superlativ) forms
+- All dative adjectives have the same ending: "-en", whether they are singular or plural and whether the noun is masculine, feminine or neuter. Easy!
 - When you use "nicht" to negate an adjective, "nicht" comes immediately before the adjective
     - Das Hemd ist nicht teuer. (The shirt is not expensive.)
 - Adjectives that end in -el or -er usually lose the e before the adjective ending:

@@ -16,15 +16,15 @@ Why Nico’s Weg?
 
 ## Follow through these links in the same order as listed
 
-- [General Tips about German (and Germany)](./0.%20German%20(and%20Germany).md)
-- [Nouns, Pronouns and Cases](./1.%20Nouns%20and%20Pronouns%20and%20Cases)
-- [Articles](./2.%20Articles%0A)
-- [Verbs, Modal Verbs & Imperatives](./3.%20Verbs%20and%20Modal%20verbs%20and%20Imperatives)
-- [Adjectives and determiners](./4.%20Adjectives%20and%20determiners)
-- [Prepositions](./5.%20Prepositions)
-- [Past tense](./6.%20Past%20tense)
-- [Date and Time](./7.%20Date%20and%20Time)
-- [Bonus - some more Grammar](./8.%20Bonus%20-%20Some%20more%20Grammar)
+- [General Tips about German (and Germany)](0-German-and-Germany.md)
+- [Nouns, Pronouns and Cases](1-Nouns-Pronouns-and-Cases.md)
+- [Articles](2-Articles.md)
+- [Verbs, Modal Verbs & Imperatives](3-Verbs-and-Modal-verbs-and-Imperatives.md)
+- [Adjectives and determiners](4-Adjectives-and-determiners.md)
+- [Prepositions](5-Prepositions.md)
+- [Past tense](6-Past-tense.md)
+- [Date and Time](7-Date-and-Time.md)
+- [Bonus - some more Grammar](8-Bonus-Some-more-Grammar.md)
 
 ## Sentence formation
 

@@ -1,1 +1,8 @@
-{}
+{
+  "vimMode": true,
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "showFrontmatter": false
+}
