@@ -1,0 +1,88 @@
+# New words - 1
+
+- das Abitur (nur Singular) - school leaving examination; high school graduation
+- der Anfänger, die Anfänger - beginner (male)
+- die Anfängerin, die Anfängerinnen - beginner (female)
+- der Autor, die Autoren - author (male)
+- die Autorin, die Autorinnen - author (female)
+- damals - back then
+- Er ist 1929 geboren. - He was born in 1929.
+- Er ist 1995 gestorben. - He died in 1995.
+- erscheinen / erscheint / erschien / ist erschienen - to be released (a book)
+- etwa - about; roughly
+- (vor etwas) fliehen / flieht / floh / geflohen - to flee (from something)
+- der Fortgeschrittene, die Fortgeschrittenen - advanced; advanced student (male)
+    - mit unbestimmtem Artikel: ein Fortgeschrittener, Fortgeschrittene
+- die Fortgeschrittene, die Fortgeschrittenen - advanced; advanced student (female)
+    - mit unbestimmtem Artikel: eine Fortgeschrittene, Fortgeschrittene
+- ganz - complete/completely; entire/entirely
+- jemandem gehören / gehört / gehörte / hat gehört - to belong to someone
+- die Geschichte, die Geschichten - story
+- immer noch - still
+- Interesse (an etwas) haben / hat / hatte / hat gehabt - to have interest in
+- die Kenntnis, die Kenntnisse (meist im Plural) - knowledge
+- der Krieg, die Kriege, die Kriegeder Krieg, die Kriege - war
+- der Künstler, die Künstler - artist (male)
+- die Künstlerin, die Künstlerinnen - artist (female)
+- der Maler, die Maler - painter; artist (male)
+- die Malerin, die Malerinnen - painter; artist (female)
+- nach dem Essen - after the meal; after eating
+- das Niveau, die Niveaus (aus dem Französischen) - level; standard
+- die Postkarte, die Postkarten - postcard
+- der Preis, die Preise - prize
+- der Schauspieler, die Schauspieler - actor (male)
+- die Schauspielerin, die Schauspielerinnen - actor (female); actress
+- die Schweiz (nur Singular, immer mit Artikel), die Schweiz - Switzerland
+- seit - since
+- sterben / stirbt / starb / ist gestorben - to die
+- von Anfang an - from the beginning; all along; from the start
+- vor - ago
+- die Welt (nur Singular) - world
+- Woher kennst du Tarek? - How do you know Tarek?
+- Woher weißt du das? - How do you know that?
+- zurück|kommen / kommt zurück / kam zurück / ist zurückgekommen - to return; to come back
+- fremd / fremder / am fremdesten - foreign; strange; unfamiliar
+- höchstens - at most; highest
+- mindestens - at minimum
+- die Unterkunft, die Unterkünfte - accommodation; board
+- etwas verdienen (verdient, verdiente, hat verdient) - to earn something
+- etwas/jemanden verlassen (verlässt, verließ, hat verlassen) - to leave something/someone
+- die Verpflegung, die Verpflegungen (Plural selten) - food; board; meals
+- zwar …, aber - It is true that..., but
+- auf keinen Fall - no way; on no account
+- der Erfolg, die Erfolge - success
+- erfolgreich / erfolgreicher / am erfolgreichsten - successful
+- das Gesetz, die Gesetze - law
+- Jura (ohne Artikel) - law
+- das Studium, die Studien (Plural selten) - studies
+- das Ziel, die Ziele - goal, target
+- die Zukunft, die Zukünfte (Plural selten) - future
+- der Zukunftsplan, die Zukunftspläne - The future plans
+- die Aussprache (nur Singular) - pronounciation
+- bestimmt - definitely; certainly
+- der Gruß, die Grüße - greeting
+- Mit freundlichen Grüßen (Abkürzung: MfG) - Best regards
+- der König, die Könige - king
+- die Königin, die Königinnen - queen
+- schaffen (schafft, schaffte, hat geschafft) - to manage something
+- die Sorge, die Sorgen - worry; concern
+- verbessern (verbessert, verbesserte, hat verbessert) - to correct, to improve
+- Was ist mit …? - What about...?/What's up with...?
+- Wissen Sie vielleicht, wo der Bahnhof ist? - Do you perhaps know where the train station is?
+- Ab|nehmen - to lose weight
+- zu|nehmen - to gain weight
+- Vorsicht mit - careful with
+- aus|geben (gibt aus, gab aus, hat ausgegeben) - to spend money
+- die Bescheinigung, die Bescheinigungen - The certificate
+- dankbar / dankbarer / am dankbarsten - thankful
+- deshalb - hence; that is why
+- erleichtert / erleichterter / am erleichtertsten - relieved
+- der Bürger - citizen (male)
+- die Bürgerin - citizen (female)
+- sich freuen - to be pleased
+- eizig / geiziger / am geizigsten - thrifty; miserly
+- der Geldschein, die Geldscheine - banknote
+- das Gespräch, die Gespräche - conversation
+- sich etwas leisten können (kann, konnte) - to be able to afford something
+- wütend / wütender / am wütendsten - angry; furious
+- sicher - certainly; surely
