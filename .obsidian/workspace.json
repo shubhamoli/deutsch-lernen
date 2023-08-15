@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Deutsch lernen - Niveau A1/7-Date-and-Time.md",
+=======
+                "file": "Deutsch lernen - Niveau A2/Subordinate-Clauses.md",
+>>>>>>> fec6b30 (Add: notes for niveau A1)
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Deutsch lernen - Niveau A1/7-Date-and-Time.md",
+=======
+                "file": "Deutsch lernen - Niveau A2/Subordinate-Clauses.md",
+>>>>>>> fec6b30 (Add: notes for niveau A1)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Deutsch lernen - Niveau A1/7-Date-and-Time.md",
+=======
+                "file": "Deutsch lernen - Niveau A2/Subordinate-Clauses.md",
+>>>>>>> fec6b30 (Add: notes for niveau A1)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Deutsch lernen - Niveau A1/7-Date-and-Time.md"
+=======
+                "file": "Deutsch lernen - Niveau A2/Subordinate-Clauses.md"
+>>>>>>> fec6b30 (Add: notes for niveau A1)
               }
             }
           }
@@ -149,17 +165,29 @@
   },
   "active": "9269af0404e4fa30",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Deutsch lernen - Niveau A1/8-Bonus-Some-more-Grammar.md",
     "Deutsch lernen - Niveau A1/README.md",
     "Deutsch lernen - Niveau A2/Adjective declension.md",
     "Deutsch lernen - Niveau A1/1-Nouns-Pronouns-and-Cases.md",
     "Deutsch lernen - Niveau A1/0-German-and-Germany.md",
     "Deutsch lernen - Niveau A1/2-Articles.md",
+=======
+    "Deutsch lernen - Niveau A2/Random-Notes.md",
+    "Deutsch lernen - Niveau A2/Posseive-determiners-(dative).md",
+    "Deutsch lernen - Niveau A2/New-words-2.md",
+    "Deutsch lernen - Niveau A2/New-words-1.md",
+    "Deutsch lernen - Niveau A2/Genitive-Case.md",
+    "Deutsch lernen - Niveau A2/Adjective-declension.md",
+    "Deutsch lernen - Niveau A1/README.md",
+    "Deutsch lernen - Niveau A1/8-Bonus-Some-more-Grammar.md",
+>>>>>>> fec6b30 (Add: notes for niveau A1)
     "Deutsch lernen - Niveau A1/7-Date-and-Time.md",
     "Deutsch lernen - Niveau A1/6-Past-tense.md",
     "Deutsch lernen - Niveau A1/5-Prepositions.md",
     "Deutsch lernen - Niveau A1/4-Adjectives-and-determiners.md",
     "Deutsch lernen - Niveau A1/3-Verbs-and-Modal-verbs-and-Imperatives.md",
+<<<<<<< HEAD
     "Deutsch lernen - Niveau A2/Random Notes.md",
     "Deutsch lernen - Niveau A2/New words - 2.md",
     "Deutsch lernen - Niveau A2/Genitive Case.md",
@@ -170,5 +198,15 @@
     "Deutsch lernen - Niveau A2",
     "3. Verbs%2C Modal verbs %26 Imperatives.md",
     "Deutsch lernen - Niveau A1"
+=======
+    "Deutsch lernen - Niveau A1/2-Articles.md",
+    "Deutsch lernen - Niveau A1/1-Nouns-Pronouns-and-Cases.md",
+    "Deutsch lernen - Niveau A1/0-German-and-Germany.md",
+    "Deutsch lernen - Niveau A1",
+    "Deutsch lernen - Niveau A2/Subordinate-Clauses.md",
+    "Deutsch lernen - Niveau A2/README.md",
+    "Deutsch lernen - Niveau A2",
+    "3. Verbs%2C Modal verbs %26 Imperatives.md"
+>>>>>>> fec6b30 (Add: notes for niveau A1)
   ]
 }
