@@ -4,7 +4,7 @@
 
 Prepositions (in German: _Präpositionen_) are essential elements in German grammar that indicate relationships between various elements in a sentence. They often express location, direction, time, manner, and other relationships.
 
-At this point in time, we will only learn about preposition used to express location/direction.
+At this point in time, we will only learn about preposition used to express location/direction (Prepositions of place).
 
 We usually answer the question "wo?" with one of the nine two-case prepositions. These prepositions can take either the dative or the accusative case, hence the name "two-case preposition.”
 
@@ -30,12 +30,12 @@ Woher - respond with aus
 
 Wo …? (location) or the question Wohin …? (direction)?
 
-a) Location: Wo …?
+a) Location: Wo …? (dative)
 
 - Two-case prepositions in / an / unter / über / auf / vor / hinter / neben / zwischen + dative
     - (das Zentrum:) Der Bahnhof ist im Zentrum. (im = in + dem)
 
-b) Direction: Wohin …?
+b) Direction: Wohin …? (Accusative)
 
 - Two-case prepositions in / an / unter / über / auf / vor / hinter / neben / zwischen + accusative
 - (die Goethestraße:) Ihr geht in die Goethestraße.

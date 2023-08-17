@@ -51,17 +51,17 @@ Each case serves a specific purpose and corresponds to different roles within a 
 Here's an overview of each case:
 
 1. **Nominative Case** (der ****Nominativ)**:**The nominative case is used for the subject of the sentence.
-    - [M] **Der Hund** bellt. (The dog is barking.)
-    - [F] **Die Blume** blüht. (The flower is blooming.)
-    - [N] Das Auto fährt schnell. (The car is driving fast.)
+    - [ ] **Der Hund** bellt. (The dog is barking.)
+    - [ ] **Die Blume** blüht. (The flower is blooming.)
+    - [ ] Das Auto fährt schnell. (The car is driving fast.)
 2. **Accusative Case** (der Akkusativ)**:** The accusative case is used for the direct object of a sentence.
-    - [M] Ich sehe **den Tisch**. (I see the table.)
-    - [F] Er liest **das Buch**. (He is reading the book.)
-    - [N] Sie isst **einen Apfel**. (She is eating an apple.)
+    - [ ] Ich sehe **den Tisch**. (I see the table.)
+    - [ ] Er liest **das Buch**. (He is reading the book.)
+    - [ ] Sie isst **einen Apfel**. (She is eating an apple.)
 3. **Dative Case** (der Dative)**:** The dative case is used for the indirect object or the recipient of an action.
-    - [M] Ich gebe **dem Mann** das Buch. (I give the book to the man.)
-    - [F] Sie hilft **der Frau**. (She is helping the woman.)
-    - [N] Das Kind gibt **dem Hund** einen Ball. (The child gives the dog a ball.)
+    - [ ] Ich gebe **dem Mann** das Buch. (I give the book to the man.)
+    - [ ] Sie hilft **der Frau**. (She is helping the woman.)
+    - [ ] Das Kind gibt **dem Hund** einen Ball. (The child gives the dog a ball.)
 4. **Genitive Case** (der Genitiv)**:** The genitive case indicates possession or relationships between nouns.
     - Das Auto **des Mannes** ist neu. (The man's car is new.)
     - Der Name **der Stadt** ist Berlin. (The name of the city is Berlin.)
