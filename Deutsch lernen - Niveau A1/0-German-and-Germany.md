@@ -71,6 +71,8 @@
 - Ich möchte einen Tisch für zwei Personen reservieren bitte
     - To reserve a table for 2 personen
     - “am vierte” - On 4th (date)
+- Alles in Ordnung? - is Everything OK?
+
 
 # Other commonly used Phrases
 
