@@ -28,9 +28,23 @@ Why Nico’s Weg?
 
 ## Sentence formation
 
-- Declarative sentences
-    - Subject + conjugated verb + [time] + Object + [auxiliary verb / verb prefix]
 - In German, word order in a sentence is flexible except the position of verbs.
+- Declarative sentences
+	- Subject + conjugated verb + [time] + Object [Manner + Place] + [other verb / verb prefix]
+	- ex. Er (S) muss (CV) um 18 Uhr (T) seine Freunde (M) in den Park (P) treffen (V).
+- Sometimes to put more emphasis on time, time can be put at position 1 **but the conjugated verb will always remain at the second position**
+	- Time (position 1) + conjugated Verb  + Subject + [Manner] + [Place] + [other verb / verb prefix]
+	- ex. Mittwochs (T) gehe (CV) ich (S) ins Fitnessstudio (P)
+	- ex. Vielleicht gehe ich ins Fitnessstudios
+- If we want to introduce 2 more objects (1 direct object and 1 indirect object) to the sentence, we stick with the usual subject in position 1, verb in position 2 rule.
+	- Subject + conjugated verb + [time] + [indirect object == Manner] + place + direct object.
+	- Ich (S) gebe (CV) dem Lehrer (IO / Manner) das Buch (DO)
+- Question
+	- Question word + Conjugated Verb +  Subject + [time] + [manner] + [place] + End Verb
+- With conjuntion
+	- Subject + Verb + Object, Conjunction + Sub +[time] + [manner] + [place]  + Conj. Verb
+	- Ex. Ich (S) trinke (V) einen Kaffee (O), weil (conj) ich (S) Durst (info) habe (CV)
+	- Ich (S) glaube (V), dass (conj) er (S) jetzt (T) bei der Arbeit (P) ist (CV).
 
 ## General Tips
 
