@@ -21,7 +21,7 @@ Why Nico’s Weg?
 - [Articles](2-Articles.md)
 - [Verbs, Modal Verbs & Imperatives](3-Verbs-and-Modal-verbs-and-Imperatives.md)
 - [Adjectives and determiners](4-Adjectives-and-determiners.md)
-- [Prepositions](5-Prepositions.md)
+- [Prepositions](Deutsch%20lernen%20-%20Niveau%20A1/5-Prepositions.md)
 - [Past tense](6-Past-tense.md)
 - [Date and Time](7-Date-and-Time.md)
 - [Bonus - some more Grammar](8-Bonus-Some-more-Grammar.md)
@@ -52,7 +52,7 @@ Why Nico’s Weg?
 - Try to learn and memorize day-to-day phrases as early as possible
 - Start talking to yourself in German
     - Oh nein! es ist zwölf Uhr (oh no! it’s 12)
-    - Ich muss morgen um 6 Uhr aufstehen (I need to wake up at 6 tomorrow)
+    - Ich muss morgen um 6 Uhr aufstehen (I need to get up at 6 tomorrow)
 - Find someone who is a native and tell you how they say certain things colloquially
     - How do you ask - is there ice-cream available?
 - Learning verb conjugation is an essential aspect of mastering German grammar, as it enables you to construct accurate and meaningful sentences. It's important to practice and familiarize yourself with these patterns to effectively communicate in German.

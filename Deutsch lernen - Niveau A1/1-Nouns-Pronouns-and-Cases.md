@@ -67,21 +67,26 @@ Here's an overview of each case:
     - Der Name **der Stadt** ist Berlin. (The name of the city is Berlin.)
     - Das Haus **des Kindes** ist groß. (The child's house is big.)
 
-Here is an another example which shows how the article of nouns changes with different _cases._
+💡**location is dative and direction is accusative**
+	- ex. Ich kaufe in dem supermarkt (location) ein.
+	- ex. ich gehen ins Kino (going == direction) 
 
-- I gave bone my dog
-    - I is the subject (nominative)
-    - Gave is the verb
-    - Bone is the direct object to the verb (accusative)
-    - Dog is the indirect object to the verb (dativ)
+Here is another example showing how nouns (and their articles) in different cases:
+
 - Der Polizist trinkt einen Apfelsaft im Supermarkt, here:
     - _Der Polizist_ ist Nominativ
     - _Einen Apfelsaft_ ist Akkusativ
     - _Im (in + dem) Supermarkt_ ist Dativ
-
+- I gave bone to my dog
+    - I is the subject (nominative)
+    - Gave is the verb
+    - Bone is the direct object to the verb (accusative)
+    - Dog is the indirect object to the verb (dativ)
+    
 **It's important to note that while the genitive case is used less frequently in modern spoken** German, the other cases (nominative, accusative, and dative) remain crucial for sentence construction and conveying meaning accurately. The choice of case depends on the role of the noun or pronoun within the sentence.
 
 Learning and mastering the cases in German is fundamental for understanding sentence structure, expressing relationships between different sentence elements, and constructing grammatically correct and coherent sentences.
+
 
 # Pronouns
 
@@ -143,7 +148,10 @@ Here is an example:
     - Sie (formal) is always capitalized regardless of its position in the sentence
     - If “sie” is at the beginning of the sentence then ofcourse it will be capitalized to “Sie”, you will then need to understand the context to understand it properly
 - es used as a personal pronoun. The pronoun _es_ is usually used to replace a neuter noun:
-    - Wo ist das Buch? – Es ist in der Tasche. (es = das Buch)
+	- Wo ist das Buch? – Es ist in der Tasche. (es = das Buch)
+- `im == in + dem` , `ins = in + das` , `am = an + dem`, and `ans = an + das`
+	- So now don't get confused anymore
+	- you can also infer the *case* now
 - Now you know, what’s the difference between
     - Wie geht’s dir? (informal)
     - Wie geht’s Ihnen? (formal)

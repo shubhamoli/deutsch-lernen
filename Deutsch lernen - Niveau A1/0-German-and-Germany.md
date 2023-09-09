@@ -27,9 +27,16 @@
 	- Länder (countries), Geräte (devices)
 - ö == “oe”
 	- Döner (The Doner kebap), Schön (beautiful), Gröser (bigger)
-- ß == “ss”
 - Z == “ts”
 	- Zwei (two), Zeit (time)
+- ß == “ss” (not always)
+	-  Maßen != Massen
+- Vowels before the letter "ß" are pronounced long, however they are pronounced short before a double consonant (for example "ss").
+	- Fuß and Fluss
+- When two or more consonants follow a vowel, it is normally pronounced short.
+	- Teller vs Tee
+	- Bad vs Ball
+- The suffix "-ig" (ex. salzig) is actually pronounced "-ich". It is only pronounced "g" if a vowel is attached to the word, for example in "Salziges" (salty food).
 
 # Day-to-day Phrases
 
