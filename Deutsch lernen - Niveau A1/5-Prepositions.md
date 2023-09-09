@@ -8,6 +8,7 @@ At this point in time, we will only learn about preposition used to express loca
 
 We usually answer the question "wo?" with one of the nine two-case prepositions. These prepositions can take either the dative or the accusative case, hence the name "two-case preposition.”
 
+**Two-case prepositions**
 1. **an** (at, on, by, near)
 2. **auf** (on, upon, onto)
 3. **in** (in, into)
@@ -84,6 +85,10 @@ Other common prepositions
 ## 💡Tips
 
 - durch is always accusative
+- in + das = **ins**  (accusative)
+	- an + das = **ans**
+- in + dem = im (dative)
+	- an + dem = am
 - The “bei” often used with company names: bei Siemens, bei Bosch, bei BMW, bei VW, bei Lidl, bei Aldi or “bei” Artz
     - If the company name has an article, then it will be in the dative case
 - When the place has an article, then it will be in the dative case.
