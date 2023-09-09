@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch lernen - Niveau A1/7-Date-and-Time.md",
+                "file": "Deutsch lernen - Niveau A2/Words List/New-words-2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "946d2de32fb5050c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deutsch lernen - Niveau A2/2-Indefinite-pronouns.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch lernen - Niveau A1/7-Date-and-Time.md",
+                "file": "Deutsch lernen - Niveau A2/2-Indefinite-pronouns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch lernen - Niveau A1/7-Date-and-Time.md",
+                "file": "Deutsch lernen - Niveau A2/2-Indefinite-pronouns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch lernen - Niveau A1/7-Date-and-Time.md"
+                "file": "Deutsch lernen - Niveau A2/2-Indefinite-pronouns.md"
               }
             }
           }
@@ -147,28 +160,37 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9269af0404e4fa30",
+  "active": "946d2de32fb5050c",
   "lastOpenFiles": [
-    "Deutsch lernen - Niveau A1/8-Bonus-Some-more-Grammar.md",
-    "Deutsch lernen - Niveau A1/README.md",
-    "Deutsch lernen - Niveau A2/Adjective declension.md",
-    "Deutsch lernen - Niveau A1/1-Nouns-Pronouns-and-Cases.md",
-    "Deutsch lernen - Niveau A1/0-German-and-Germany.md",
-    "Deutsch lernen - Niveau A1/2-Articles.md",
-    "Deutsch lernen - Niveau A1/7-Date-and-Time.md",
-    "Deutsch lernen - Niveau A1/6-Past-tense.md",
-    "Deutsch lernen - Niveau A1/5-Prepositions.md",
-    "Deutsch lernen - Niveau A1/4-Adjectives-and-determiners.md",
-    "Deutsch lernen - Niveau A1/3-Verbs-and-Modal-verbs-and-Imperatives.md",
-    "Deutsch lernen - Niveau A2/Random Notes.md",
-    "Deutsch lernen - Niveau A2/New words - 2.md",
-    "Deutsch lernen - Niveau A2/Genitive Case.md",
-    "Deutsch lernen - Niveau A2/Posseive determiners (dative).md",
-    "Deutsch lernen - Niveau A2/Subordinate Clauses.md",
-    "Deutsch lernen - Niveau A2/New words - 1.md",
+    "Deutsch lernen - Niveau A2/1-Relative-Clauses.md",
+    "Deutsch lernen - Niveau A2/0-Subordinate-Clauses.md",
+    "Deutsch lernen - Niveau A2/2-Indefinite-pronouns.md",
+    "Deutsch lernen - Niveau A2/3-Final-Clauses.md",
+    "Deutsch lernen - Niveau A2/5-Prepositions.md",
+    "Deutsch lernen - Niveau A2/4-Subjunctive-polite-requests.md",
+    "Deutsch lernen - Niveau A2/10-Genitive-Case.md",
+    "Deutsch lernen - Niveau A2/6-Posseive-determiners-(dative).md",
     "Deutsch lernen - Niveau A2/README.md",
+    "Deutsch lernen - Niveau A2/11-Misc.md",
+    "Deutsch lernen - Niveau A2/9-Simple-Past.md",
+    "Deutsch lernen - Niveau A2/8-Adverbs.md",
+    "Deutsch lernen - Niveau A2/7-Reflexive-verbs.md",
+    "Deutsch lernen - Niveau A2/4-zwar-aber.md",
+    "Deutsch lernen - Niveau A1/README.md",
+    "Deutsch lernen - Niveau A2/Random-Notes.md",
+    "Deutsch lernen - Niveau A1/4-Adjectives-and-determiners.md",
+    "Deutsch lernen - Niveau A2/4-Adjective-declension.md",
+    "Deutsch lernen - Niveau A2/Words List",
+    "Deutsch lernen - Niveau A2/Words List/New-words-1.md",
+    "Deutsch lernen - Niveau A2/Words List/New-words-2.md",
+    "Deutsch lernen - Niveau A2/Words List/New-words-3.md",
+    "Deutsch lernen - Niveau A2/Lingoda.md",
+    "Deutsch lernen - Niveau A2/w.md",
+    "Lingoda/A2.1.md",
+    "Lingoda/Untitled 1.md",
+    "README.md",
+    "Lingoda",
     "Deutsch lernen - Niveau A2",
-    "3. Verbs%2C Modal verbs %26 Imperatives.md",
     "Deutsch lernen - Niveau A1"
   ]
 }
