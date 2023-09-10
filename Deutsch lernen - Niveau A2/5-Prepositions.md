@@ -103,7 +103,7 @@ z. B.
 - Practice the declensions in the dative case.
 
 
-||vor / seit + dative|
+|vor / seit + dative| |
 |--- |---|
 |der Monat|vor/seit einem Monat|
 |die Woche|vor/seit einer Woche|
