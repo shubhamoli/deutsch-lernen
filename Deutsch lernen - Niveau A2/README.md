@@ -24,12 +24,12 @@ In A2 we will learn more about Subordinate clauses, indirect questions, reflexiv
 - [5-Prepositions](./5-Prepositions)
 - [6-Possessive-determiners-(dative)](./6-Possessive-determiners-(dative))
 - [7-Reflexive-verbs-and-pronouns](./7-Reflexive-verbs-and-pronouns)
-- [8-Adverbs](./8-Adverbs)
-- [9-Simple-Past](./9-Simple-Past)
-- [10-Genitive-Case](./10-Genitive-Case)
-- [11-Misc](./11-Misc)
+- [8-Adverbs](./8-Adverbs.md)
+- [9-Simple-Past](./9-Simple-Past.md)
+- [10-Genitive-Case](./10-Genitive-Case.md)
+- [11-Misc](./11-Misc.md)
 
-#### Also, don't forget to see the huge list of new words we are going to learn in A2. The list is [here](./words/).
+#### Also, don't forget to see the huge list of new words we are going to learn in A2. The list is [here](./Words%20List).
 
 ---
 ## One important Tip
