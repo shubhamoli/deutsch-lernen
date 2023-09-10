@@ -16,14 +16,14 @@ In A2 we will learn more about Subordinate clauses, indirect questions, reflexiv
 ---
 ## Please follow this guide in the following order
 
-- [0-Subordinate-Clauses](./0-Subordinate-Clauses)
-- [1-Relative-Clauses](./1-Relative-Clauses)
-- [2-Indefinite-pronouns](./2-Indefinite-pronouns)
-- [3-Final-clauses](./3-Final-clauses)
+- [0-Subordinate-Clauses](./0-Subordinate-Clauses.md)
+- [1-Relative-Clauses](./1-Relative-Clauses.md)
+- [2-Indefinite-pronouns](./2-Indefinite-pronouns.md)
+- [3-Final-clauses](./3-Final-Clauses.md)
 - [4-Subjunctive-polite-requests](4-Subjunctive-polite-requests.md)
-- [5-Prepositions](./5-Prepositions)
-- [6-Possessive-determiners-(dative)](./6-Possessive-determiners-(dative))
-- [7-Reflexive-verbs-and-pronouns](./7-Reflexive-verbs-and-pronouns)
+- [5-Prepositions](./5-Prepositions.md)
+- [6-Possessive-determiners-(dative)](./6-Possessive-determiners-(dative).md)
+- [7-Reflexive-verbs-and-pronouns](./7-Reflexive-verbs-and-pronouns.md)
 - [8-Adverbs](./8-Adverbs.md)
 - [9-Simple-Past](./9-Simple-Past.md)
 - [10-Genitive-Case](./10-Genitive-Case.md)
